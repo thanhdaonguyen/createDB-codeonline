@@ -1,0 +1,4 @@
+dbname: "ydqcd8az3yfch9fdg3ph"
+username: "testuser005"
+password: "password"
+firstCollectionName: "newitems"
